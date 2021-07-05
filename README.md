@@ -1,5 +1,4 @@
-# Dash Image Processing App
-
+# Tide Monitor Dashboard
 
 This is a demo of the Dash interactive Python framework developed by [Plotly](https://plot.ly/).
 
