@@ -9,13 +9,13 @@ Try out the app [here](http://belfastmaineharbor.pythonanywhere.com/).
 ![screenshot](assets/tmd_screenshot.png "Screenshot")
 
 
-## Getting Started
-### Try it out
+## Overview
+
 This initial version fetches data form a csv file but the full version will access the real-time tide height and weather data.
 
 The plotly graphs are interactive so you can zoom and pan in them and hover over traces to see data points.
 
-### Running the app locally
+### Try it out
 
 First create a virtual environment, if desired, with conda or venv inside a folder, then activate it.
 
